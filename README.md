@@ -1,3 +1,7 @@
+
+
+[Live site](https://awondip.github.io/newspaapers-site-html-only/)
+
 <DOCTYPE>{Tells the browser what  kind of document we are loading, in the case of good "ol Html" }
 <!--  -->{For commenting out Html elements, with a focus on Html5.Anything within <!--and ---> wont be renderd as text when the page load in web browser, but wiil visible if looking at plain HTML5 file in a text editor}
 <header></header>{Not to be confused with the <head> tag the <header> contains introductory content and layout that goes above the body}
